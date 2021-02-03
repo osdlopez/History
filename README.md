@@ -1,2 +1,2 @@
 # History
-A brief and basic blog about my history
+A basic blog about my history
